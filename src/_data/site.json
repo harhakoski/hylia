@@ -1,13 +1,13 @@
 {
-  "showThemeCredit": true,
-  "name": "Hylia Starter Kit",
+  "showThemeCredit": false,
+  "name": "Harhakoski.com",
   "shortDesc": "Footer short description",
-  "url": "https://hylia.website",
-  "authorEmail": "me@andy-bell.design",
-  "authorHandle": "@hankchizljaw",
-  "authorName": "Andy Bell",
+  "url": "https://harhakoski.com",
+  "authorEmail": "me@harhakoski.com",
+  "authorHandle": "",
+  "authorName": "Harhakoski",
   "enableThirdPartyComments": false,
-  "paymentPointer": "$ilp.uphold.com/MggmnFEyQqhk",
+  "paymentPointer": "asdf",
   "faviconPath": "/images/favicon.png",
   "maxPostsPerPage": 5
 }
