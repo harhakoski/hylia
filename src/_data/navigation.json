@@ -9,6 +9,10 @@
       "text": "Example Contact Page",
       "url": "/contact",
       "external": false
+    },
+    {
+      "text": "About",
+      "url": "/about"
     }
   ]
 }
