@@ -1,7 +1,8 @@
 ---
 layout: home
 title: This site is under construction
-metaDesc: ""
+metaTitle: This site is under construction
+metaDesc: Overwrite
 postsHeading: Latest posts
 archiveButtonText: See all posts
 socialImage: ""
