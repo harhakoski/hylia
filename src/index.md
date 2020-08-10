@@ -7,4 +7,4 @@ postsHeading: Latest posts
 archiveButtonText: See all posts
 socialImage: ""
 ---
-This is a sample homepage.
+This is a sample homepage. Nothing Here
